@@ -81,7 +81,7 @@ python app.py
 
 💡 Example
 
-Message: "Congratulations! You've won a free ticket!" → SPAM  
+Message: "Claim a free price" → SPAM  
 Message: "Hey, are we still meeting today?" → HAM  
 
 ---
