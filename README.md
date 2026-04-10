@@ -1,5 +1,5 @@
 HuggingFaceWebsite- https://huggingface.co/spaces/pgtobby1/SPamdetector
-
+Please wait for a bit for it to load
 # ML-Spam-Mail-detector
 using SVM 
 ---
