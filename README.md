@@ -1,4 +1,4 @@
-HuggingFaceWebsite- https://huggingface.co/spaces/pgtobby1/SPamdetector
+HuggingFaceWebsite- https://huggingface.co/spaces/pgtobby1/SPamdetector    Please wait a bit for it to load
 📩 SMS Spam Detector (Machine Learning)
 
 📌 Overview
